@@ -1,4 +1,4 @@
-# Linked List in C
+# Linked List
 
 This sub-folder contains the implementation of a singly linked list data structure in C.
 
