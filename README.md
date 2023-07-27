@@ -24,7 +24,7 @@ To get a local copy of this repository up and running, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/moufidayoub11/data-structures-c.git
+git clone https://github.com/moufidayoub11/c-data-structures.git
 ```
 
 3. Navigate into the cloned repository:
