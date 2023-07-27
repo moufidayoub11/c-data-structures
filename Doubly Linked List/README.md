@@ -58,6 +58,10 @@ The doubly linked list implementation includes the following functions:
 - `printDoublyLinkedList`: This function prints the elements of the doubly linked list in both forward and backward directions.
 
 ## Usage
+To run the test main file directly:
+```bash
+gcc main.c linked_list.c -o output && ./output
+```
 
 To use the Doubly Linked List implementation in your C projects:
 
@@ -156,7 +160,7 @@ int main() {
 
 Contributions to this repository are welcome! If you want to contribute, follow the guidelines mentioned in the main README file.
 
-Please ensure that your code adheres to the existing coding style and passes all existing automated tests.
+Please ensure that your code adheres to the existing coding style.
 
 ## Additional Resources
 
