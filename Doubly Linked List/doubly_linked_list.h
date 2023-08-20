@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#ifndef DOUBLY_LINKED_LIST 
+#ifndef DOUBLY_LINKED_LIST
 #define DOUBLY_LINKED_LIST
 
 typedef struct node
@@ -9,6 +9,9 @@ typedef struct node
 	struct node *prev;
 	struct node *next;
 }node;
+
+
+
 
 node *createNode(int data);
 int pushNode(node **head, int data);
